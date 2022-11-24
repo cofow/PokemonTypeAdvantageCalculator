@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ED8bjWVC8yD0RSOewV+xduWVnLRxbV9nDdClRYBM7O8LMAxA3Lb+0f0Kdg8pS+IijLN1e4BTUXuo3/kaiNxwww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cfowl\\source\\repos\\C#\\ImprovedPokemonTypeChartClasses\\TypeChartUI\\TypeChartUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cfowl\\.nuget\\packages\\extended.wpf.toolkit\\4.4.0\\extended.wpf.toolkit.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
